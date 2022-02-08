@@ -1,6 +1,6 @@
 {
-  "name": "afkbot",
-  "version": "1.18.1",
+  "name": "MS-980",
+  "version": "1.18.2",
   "description": "",
   "main": "index.js",
   "scripts": {
